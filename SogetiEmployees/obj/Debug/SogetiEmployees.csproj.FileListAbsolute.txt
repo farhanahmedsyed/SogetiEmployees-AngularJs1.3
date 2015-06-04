@@ -1,0 +1,252 @@
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\obj\Debug\SogetiEmployees.csprojResolveAssemblyReference.cache
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\SogetiEmployees.dll.config
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\SogetiEmployees.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\SogetiEmployees.pdb
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Antlr3.Runtime.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\EntityFramework.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\EntityFramework.SqlServer.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\HRBL.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\HRDAL.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Microsoft.Data.Edm.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Microsoft.Data.OData.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.Configuration.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.WebApi.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Microsoft.Web.Infrastructure.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Newtonsoft.Json.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Net.Http.Formatting.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Spatial.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Helpers.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Http.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Http.OData.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Http.Tracing.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Http.WebHost.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Mvc.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Optimization.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Providers.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Razor.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.WebPages.Deployment.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.WebPages.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.WebPages.Razor.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\WebActivatorEx.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\WebGrease.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\HRModel.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\HRBL.pdb
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\HRDAL.pdb
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\EntityFramework.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\EntityFramework.SqlServer.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.Configuration.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.WebApi.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Newtonsoft.Json.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Net.Http.Formatting.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Helpers.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Http.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Http.WebHost.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Mvc.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Razor.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.WebPages.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.WebPages.Deployment.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.WebPages.Razor.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Http.Tracing.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Web.Http.OData.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Microsoft.Data.Edm.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\Microsoft.Data.OData.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\System.Spatial.xml
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\HRModel.pdb
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\de\System.Spatial.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\es\System.Spatial.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\fr\System.Spatial.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\it\System.Spatial.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\ja\System.Spatial.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\ko\System.Spatial.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\ru\System.Spatial.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\obj\Debug\SogetiEmployees.dll
+c:\users\k035542\documents\visual studio 2013\Projects\SogetiEmployees\SogetiEmployees\obj\Debug\SogetiEmployees.pdb
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\SogetiEmployees.dll.config
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\SogetiEmployees.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\SogetiEmployees.pdb
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Antlr3.Runtime.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\EntityFramework.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\EntityFramework.SqlServer.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\HRBL.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\HRDAL.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Microsoft.Data.Edm.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Microsoft.Data.OData.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.WebApi.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Microsoft.Web.Infrastructure.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Newtonsoft.Json.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Spatial.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.Helpers.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.Http.OData.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.Http.Tracing.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.Mvc.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.Optimization.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.Providers.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.Razor.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.WebPages.Deployment.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.WebPages.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.WebPages.Razor.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\WebActivatorEx.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\WebGrease.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\HRModel.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\HRBL.pdb
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\HRDAL.pdb
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\EntityFramework.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\EntityFramework.SqlServer.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Microsoft.Practices.Unity.WebApi.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Newtonsoft.Json.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.Helpers.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.Mvc.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.Razor.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.WebPages.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.WebPages.Deployment.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.WebPages.Razor.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.Http.Tracing.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Web.Http.OData.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Microsoft.Data.Edm.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\Microsoft.Data.OData.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\System.Spatial.xml
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\HRModel.pdb
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\de\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\es\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\it\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\de\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\es\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\fr\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\it\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\ja\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\ko\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\ru\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\zh-Hans\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\bin\zh-Hant\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\obj\Debug\SogetiEmployees.csprojResolveAssemblyReference.cache
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\obj\Debug\SogetiEmployees.dll
+C:\Farhan\Angular\SogetiEmployees\SogetiEmployees\obj\Debug\SogetiEmployees.pdb
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\SogetiEmployees.dll.config
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\SogetiEmployees.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\SogetiEmployees.pdb
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Antlr3.Runtime.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\EntityFramework.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\EntityFramework.SqlServer.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\HRBL.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\HRDAL.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Microsoft.Data.Edm.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Microsoft.Data.OData.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Microsoft.Practices.Unity.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Microsoft.Practices.Unity.WebApi.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Microsoft.Web.Infrastructure.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Newtonsoft.Json.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Spatial.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.Helpers.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.Http.OData.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.Http.Tracing.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.Mvc.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.Optimization.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.Providers.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.Razor.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.WebPages.Deployment.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.WebPages.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.WebPages.Razor.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\WebActivatorEx.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\WebGrease.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\HRModel.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\HRBL.pdb
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\HRDAL.pdb
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\EntityFramework.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\EntityFramework.SqlServer.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Microsoft.Practices.Unity.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Microsoft.Practices.Unity.WebApi.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Newtonsoft.Json.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.Helpers.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.Mvc.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.Razor.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.WebPages.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.WebPages.Deployment.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.WebPages.Razor.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.Http.Tracing.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Web.Http.OData.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Microsoft.Data.Edm.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\Microsoft.Data.OData.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\System.Spatial.xml
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\HRModel.pdb
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\de\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\es\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\it\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\de\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\es\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\fr\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\it\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\ja\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\ko\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\ru\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\zh-Hans\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\bin\zh-Hant\System.Spatial.resources.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\obj\Debug\SogetiEmployees.csprojResolveAssemblyReference.cache
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\obj\Debug\SogetiEmployees.dll
+C:\Farhan\Angular\SogetiEmployees - Angular1.3\SogetiEmployees\obj\Debug\SogetiEmployees.pdb

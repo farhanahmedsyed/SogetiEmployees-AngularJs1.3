@@ -1,0 +1,42 @@
+﻿<div class="row">
+    <div class="col-md-10">
+        <h2>Create Employee Salary</h2>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <div class="form-group">
+            <label>Select Employee</label>
+            <select ng-model="employeeSalary.employeeId" class="form-control" ng-change="selectAction(employeeSalary.employeeId)">
+                <option ng-repeat="item in employees" value="{{item.id}}">{{item.firstName}}&nbsp;{{item.lastName}}</option>
+            </select>
+            </div>
+        <div class="form-group">
+            <label>Gross Pay</label>
+            <input type="text" ng-model="employeeSalary.grossPay" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>401k</label>
+            <input type="checkbox" ng-model="employeeSalary.four01k" />
+        </div>
+        <div class="form-group">
+            <label>401k Contribution</label>
+            <input type="text" ng-model="employeeSalary.four01kContricution" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>Medical Contribution</label>
+            <input type="text" ng-model="employeeSalary.medicalContribution" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>Tax</label>
+            <input type="text" ng-model="employeeSalary.taxRate" class="form-control" />
+        </div>        
+        <div class="form-group">
+            <label>Net</label>
+            <input type="text" ng-model="employeeSalary.netPay" class="form-control" />
+        </div>       
+        <button class="btn btn-default" ng-click="saveEmployeeSalary(employeeSalary)">Save</button>
+        <div style="color:red;" ng-show="error">An error occurred saving employee.</div>
+    </div>
+</div>

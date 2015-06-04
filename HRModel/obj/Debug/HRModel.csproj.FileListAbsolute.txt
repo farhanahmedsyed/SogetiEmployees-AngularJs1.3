@@ -1,0 +1,15 @@
+C:\Users\K035542\Documents\Visual Studio 2013\Projects\HRSogeti\HRModel\bin\Debug\HRModel.dll
+C:\Users\K035542\Documents\Visual Studio 2013\Projects\HRSogeti\HRModel\bin\Debug\HRModel.pdb
+C:\Users\K035542\Documents\Visual Studio 2013\Projects\HRSogeti\HRModel\obj\Debug\HRModel.csprojResolveAssemblyReference.cache
+C:\Users\K035542\Documents\Visual Studio 2013\Projects\HRSogeti\HRModel\obj\Debug\HRModel.dll
+C:\Users\K035542\Documents\Visual Studio 2013\Projects\HRSogeti\HRModel\obj\Debug\HRModel.pdb
+C:\Users\K035542\Documents\Visual Studio 2013\Projects\SogetiEmployees\HRModel\bin\Debug\HRModel.dll
+C:\Users\K035542\Documents\Visual Studio 2013\Projects\SogetiEmployees\HRModel\bin\Debug\HRModel.pdb
+C:\Users\K035542\Documents\Visual Studio 2013\Projects\SogetiEmployees\HRModel\obj\Debug\HRModel.csprojResolveAssemblyReference.cache
+C:\Users\K035542\Documents\Visual Studio 2013\Projects\SogetiEmployees\HRModel\obj\Debug\HRModel.dll
+C:\Users\K035542\Documents\Visual Studio 2013\Projects\SogetiEmployees\HRModel\obj\Debug\HRModel.pdb
+C:\Farhan\Angular\SogetiEmployees\HRModel\bin\Debug\HRModel.dll
+C:\Farhan\Angular\SogetiEmployees\HRModel\bin\Debug\HRModel.pdb
+C:\Farhan\Angular\SogetiEmployees\HRModel\obj\Debug\HRModel.csprojResolveAssemblyReference.cache
+C:\Farhan\Angular\SogetiEmployees\HRModel\obj\Debug\HRModel.dll
+C:\Farhan\Angular\SogetiEmployees\HRModel\obj\Debug\HRModel.pdb

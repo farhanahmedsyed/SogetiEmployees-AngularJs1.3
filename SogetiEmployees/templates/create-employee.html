@@ -1,0 +1,81 @@
+﻿<div class="row">
+    <div class="col-md-10">
+        <h2>Create Employee</h2>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <div class="form-group">
+            <label>First Name</label>
+            <input type="text" ng-model="employee.firstName" class="form-control" />
+        </div>
+        
+        <div class="form-group">
+            <label>Last Name</label>
+            <input type="text" ng-model="employee.lastName" class="form-control" />
+        </div>    
+
+        <div class="form-group">
+            <label>Street</label>
+            <input type="text" ng-model="employee.street" class="form-control" />
+        </div>
+       
+
+      
+        <div class="form-group">
+            <!--<label>Updated By</label>-->
+            <input type="text" ng-model="employee.updatedBy" class="form-control" ng-hide="true"/>
+        </div>
+
+        <div class="form-group">
+            <label>Designation</label>
+            <select ng-model="employee.designation" class="form-control">
+                <option ng-repeat="item in designations" value="{{item.id}}">{{item.designation}}</option>
+            </select>
+        </div> 
+        <div class="form-group">
+            <label>
+                Active
+            </label>
+                <input type="checkbox" ng-model="employee.isActive" />
+           
+        </div>
+
+
+    </div>
+    <div class="col-md-3">
+
+
+        <div class="form-group">
+            <label>Mobile No</label>
+            <input type="text" ng-model="employee.mobile" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>Home Phone</label>
+            <input type="text" ng-model="employee.homePhone" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>State</label>
+            <select ng-model="employee.state" class="form-control">
+                <option ng-repeat="item in states" value="{{item.id}}">{{item.state}}</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>Zip</label>
+            <input type="text" ng-model="employee.zip" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <button class="btn btn-success" ng-click="saveEmployee(employee)">Save</button>
+            <button class="btn btn-danger" ng-click="saveEmployee(employee)">Cancel</button>
+            <div style="color:red;" ng-show="error">An error occurred saving employee.</div>
+
+        </div>
+
+    </div>
+
+
+ </div>
